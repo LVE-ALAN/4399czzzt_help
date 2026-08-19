@@ -28,7 +28,7 @@
 
 ```bash
 # 1. 克隆或下载项目
-git clone https://github.com/your-username/4399czzzt_help.git
+git clone https://github.com/LVE-ALAN/4399czzzt_help.git
 cd 4399czzzt_help
 
 # 2. 创建 Python 3.10 虚拟环境（推荐）
