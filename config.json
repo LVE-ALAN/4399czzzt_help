@@ -1,0 +1,22 @@
+{
+  "vision": {
+    "template_match_threshold": 0.7
+  },
+  "tasks": {
+    "retry_count": 3,
+    "wait_timeout": 10
+  },
+  "tech_donate": {
+    "enabled_techs": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+    "donate_counts": {
+      "金币": 10,
+      "钻石": 10,
+      "红钻": 0,
+      "将魂": 15
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/automation.log"
+  }
+}
